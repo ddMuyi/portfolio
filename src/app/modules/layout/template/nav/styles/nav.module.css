@@ -1,0 +1,93 @@
+.line {
+    height:3px;
+    background-color:#FFFFFF;
+    border-radius: 999px;
+    width:100%;
+}
+
+.line1_1, .line3_2{
+    width:5px;
+}
+
+.line3_1, .line1_2{
+    width:25px;
+}
+
+.line1, .line3{
+    display:flex;
+    min-width:40px;
+    justify-content: space-between;
+}
+
+/* Line 1 animation */
+.line1_1.close{
+    animation: close1_1 0.5s ease-in-out forwards;
+    transform-origin: 0%;
+    animation-delay: 0.1s;
+}
+
+@keyframes close1_1 {
+    0%{
+        width:5px;
+        transform: rotate(0deg);
+    }
+    100%{
+        width:54px;
+        transform: rotate(45deg);
+    }
+}
+
+.line1_2.close{
+    animation: close1_2 0.4s ease-out forwards;
+}
+
+@keyframes close1_2 {
+    0%{
+        width:25px;
+    }
+    100%{
+        width:0px;
+    }
+}
+
+/* Line 3 animation */
+.line3_1.close{
+    animation: close3_1 0.5s ease-in-out forwards;
+    transform-origin: 0%;
+    animation-delay: 0.1s;
+}
+
+@keyframes close3_1 {
+    0%{
+        width:25px;
+        transform: rotate(0deg);
+    }
+    100%{
+        width:54px;
+        transform: rotate(-45deg);
+    }
+}
+
+.line3_2.close{
+    animation: close3_2 0.4s ease-out forwards;
+}
+
+@keyframes close3_2 {
+    0%{
+        width:5px;
+    }
+    100%{
+        width:0px;
+    }
+}
+
+/* Line 2 animation */
+.line2.close{
+    animation: close2 0.4s ease-out forwards;
+}
+
+@keyframes close2 {
+    100%{
+        width:0px;
+    }
+}
