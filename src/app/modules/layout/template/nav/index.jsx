@@ -53,16 +53,8 @@ export const Nav = () =>{
         setCurrentPath(curPath.toLowerCase())
     }, [pathname])
 
-    useEffect(()=>{
-        if(window.innerWidth > 900){
-            setOpenNav(true)
-        }
-    }, [])
-
     const toggleNavBar = ()=>{
-        if(window.innerWidth < 900){
-            setOpenNav(el=>!el)
-        }
+        setOpenNav(el=>!el)
     }
 
     return (
