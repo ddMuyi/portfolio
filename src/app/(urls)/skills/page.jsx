@@ -12,7 +12,7 @@ const Skills = () =>{
             <div>
                 {skills.map(skill=>{
                     return (
-                        <div className="grid grid-cols-5 py-4">
+                        <div key={skill.skill} className="grid grid-cols-5 py-4">
                             <div className="col-span-2 flex itsme-center">
                                 {skill.skill}
                             </div>

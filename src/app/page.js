@@ -8,7 +8,7 @@ export default function Home() {
         Some after graduation, I gained interest in Tech once more, and this time I started learning about the basics of Web development (HTML and CSS) and Javascript, and the rest is history.
       </p>
       <p className="leading-relaxed">
-        I’ve been able to work on Enterprise applications and Basic web pages across several sectors which includes <span className="text-blue-400">e-commerce, healthTech, e-Learning and finTech</span>.
+        I&apos;ve been able to work on Enterprise applications and Basic web pages across several sectors which includes <span className="text-blue-400">e-commerce, healthTech, e-Learning and finTech</span>.
       </p>
     </article>
   )
