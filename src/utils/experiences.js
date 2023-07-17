@@ -62,14 +62,14 @@ export const projects = {
             name:"Vaspack energy Limited",
             year:"2022-2023",
             img:"/vaspack.png",
-            slack:["Next","React", "Javascript", "CSS", "Antd"],
+            slack:["Next","React", "Javascript", "Node", "CSS", "Antd"],
             site:"https://vaspackenergy.com"
         },
         {
             name:"Exalt Courier",
             year:"2022-2023",
             img:"",
-            slack:["Next","React", "Javascript", "CSS", "Antd"],
+            slack:["Next","React", "Javascript", "Node", "CSS", "Antd"],
             site:"https://exaltapp.com"
         },
         {
@@ -85,14 +85,14 @@ export const projects = {
             name:"Avata",
             year:"2023",
             img:"/avata.jpg",
-            slack:["Next","React", "Javascript", "CSS", "Tailwind"],
+            slack:["Next","React", "Javascript", "Node", "CSS", "Tailwind"],
             site:"https://avata.oestudio.digital"
         },
         {
             name:"ElluP",
             year:"2023",
             img:"/ellup.jpg",
-            slack:["Next","React", "Javascript", "CSS", "Tailwind"],
+            slack:["Next","React", "Javascript", "Node", "CSS", "Tailwind"],
             site:"https://store.oestudio.digital"
         },
         {
