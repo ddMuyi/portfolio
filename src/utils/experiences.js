@@ -4,7 +4,7 @@ export const experiences = [
         role:"Frontend Developer",
         from:"Sep 2022",
         to:"Jun 2023",
-        duties:"Supported the team in fixing numerous bugs vastly improving the performance of the company&apos;s courier website. Tested and Deployed design features promptly. Boosted the productivity of the frontend team by 30% by ensuring that we were in sync with the remaining teams and introducing a collaboration tool (Jira). Lead the team in launching a fully functional event management system application (Including 5 dashboards) within 3 weeks. Assisted the backend team by suggesting optimized infrastructure for our projects models.",
+        duties:"Supported the team in fixing numerous bugs vastly improving the performance of the company's courier website. Tested and Deployed design features promptly. Boosted the productivity of the frontend team by 30% by ensuring that we were in sync with the remaining teams and introducing a collaboration tool (Jira). Lead the team in launching a fully functional event management system application (Including 5 dashboards) within 3 weeks. Assisted the backend team by suggesting optimized infrastructure for our projects models.",
         slack:["Javascript", "Next", "React", "Google Map API", "Typescript", "Ant Design", "Material UI"],
         site:"https://www.linkedin.com/company/exalt-churches-app/"
     },
@@ -13,7 +13,7 @@ export const experiences = [
         role:"Contract Frontend Developer",
         from:"Oct 2021",
         to:"May 2023",
-        duties:"Upgraded the company&apos;s applications from React with Javascript to Next.js with Typescript, thereby improving the scalability, SEO and performance of our applications by at least 10%. Pushed the company&apos;s merchandise dashboard (ElluPP) to production within four days. Analyzed the backend model infrastructure in conjunction with the backend team and identified improvements that could be made that would result in a shorter user journey.",
+        duties:"Upgraded the company’s applications from React with Javascript to Next.js with Typescript, thereby improving the scalability, SEO and performance of our applications by at least 10%. Pushed the company’s merchandise dashboard (ElluPP) to production within four days. Analyzed the backend model infrastructure in conjunction with the backend team and identified improvements that could be made that would result in a shorter user journey.",
         slack:["Javascript", "Next", "React", "Tailwind CSS", "Typescript", "Node.js", "Express", "Figma", "SCSS"],
         site:"https://oestudio.digital"
     },
@@ -31,7 +31,7 @@ export const experiences = [
         role:"Frontend Developer and Product Manager",
         from:"May 2021",
         to:"Apr 2022",
-        duties:"Updated the Company&apos;s loan app administrative dashboard from PHP to Vue3 and fixed numerous bugs in the User-interface, User experience, responsiveness and authentication features. Optimized the performance of the admin dashboard by frequent updating of dependencies and reducing the number of lines of codes by about 8%.",
+        duties:"Updated the Company’s loan app administrative dashboard from PHP to Vue3 and fixed numerous bugs in the User-interface, User experience, responsiveness and authentication features. Optimized the performance of the admin dashboard by frequent updating of dependencies and reducing the number of lines of codes by about 8%.",
         slack:["Javascript", "Vue", "React", "Tailwind CSS", "Typescript", "Trello", "mySQL"],
         site:"https://providenceresearchltd.com/"
     },
