@@ -200,6 +200,14 @@ export const skills = [
     {
         skill:"Leadership",
         level:4
+    },
+    {
+        skill:"Collaboration",
+        level:5
+    },
+    {
+        skill:"Critical thinking",
+        level:5
     }
 ]
 
