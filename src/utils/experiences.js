@@ -124,6 +124,15 @@ export const projects = {
             site:"https://oedemy.digital"
         },
     ],
+    "0xAsusu":[
+        {
+            name:"0xAsusu",
+            year:"2022",
+            img:"/asusu.png",
+            slack:["Next", "React", "Javascript", "CSS", "Tailwind"],
+            site:"https://oxasusu.netlify.app"
+        }
+    ],
     "Providence":[
         {
             name:"Mobile Banking Manager(MBM) Dashboard",
