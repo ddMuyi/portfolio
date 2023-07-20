@@ -6,7 +6,7 @@ export const experiences = [
         to:"Jun 2023",
         duties:"Supported the team in fixing numerous bugs vastly improving the performance of the company's courier website. Tested and Deployed design features promptly. Boosted the productivity of the frontend team by 30% by ensuring that we were in sync with the remaining teams and introducing a collaboration tool (Jira). Lead the team in launching a fully functional event management system application (Including 5 dashboards) within 3 weeks. Assisted the backend team by suggesting optimized infrastructure for our projects models.",
         slack:["Javascript", "Next", "React", "Google Map API", "Typescript", "Ant Design", "Material UI"],
-        site:"https://www.linkedin.com/company/exalt-churches-app/"
+        site:"https://exaltcourier.com"
     },
     {
         company:"OE Studio",
@@ -66,11 +66,18 @@ export const projects = {
             site:"https://vaspackenergy.com"
         },
         {
-            name:"Exalt Courier",
+            name:"Exalt App",
             year:"2022-2023",
             img:"",
             slack:["Next","React", "Javascript", "Node", "CSS", "Antd"],
             site:"https://exaltapp.com"
+        },
+        {
+            name:"Exalt Courier",
+            year:"2022-2023",
+            img:"",
+            slack:["Next","React", "Javascript", "Node", "CSS", "Antd"],
+            site:"https://exaltcourier.com"
         },
         {
             name:"Wonderland Lagos",
