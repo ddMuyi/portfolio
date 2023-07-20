@@ -220,9 +220,14 @@ export const skills = [
 
 export const socials = [
     {
-      name:"Twitter",
-      link:"https://twitter.com/DaoduMuyiwa",
-      icon:"/twitter.svg"
+      name:"Download CV",
+      link:"./MuyiwaDaodu.pdf",
+      icon:"/download.svg"
+    },
+    {
+        name:"Twitter",
+        link:"https://twitter.com/DaoduMuyiwa",
+        icon:"/twitter.svg"
     },
     {
       name:"Instagram",
