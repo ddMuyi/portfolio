@@ -245,7 +245,7 @@ export const socials = [
     },
     {
       name:"LinkedIn",
-      link:"linkedin.com/in/daodu-muyiwa-a3238b174",
+      link:"https://www.linkedin.com/in/daodu-muyiwa-a3238b174",
       icon:"/linkedIn.svg"
     },
     {
